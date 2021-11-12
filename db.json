@@ -1,0 +1,67 @@
+{
+  "challenges": [
+    {
+      "id": "1",
+      "title": "Data Extraction and Text Mining",
+      "description": "Text mining, also called text data mining, is the process of analyzing large volumes of unstructured text data to derive new information. It helps identify facts, trends, patterns, concepts, keywords, and other valuable elements in text data",
+      "likes": 12,
+      "display": false,
+      "createdDate": 12,
+      "tag": "Tech"
+    },
+    {
+      "id": "2",
+      "title": "Data Transformation",
+      "description": "Text mining, also called text data mining, is the process of analyzing large volumes of unstructured text data to derive new information. It helps identify facts, trends, patterns, concepts, keywords, and other valuable elements in text data",
+      "likes": 97,
+      "createdDate": 14,
+      "display": false,
+      "tag": "Tech"
+    },
+    {
+      "id": "3",
+      "title": "Stock Market Platform Investment idea",
+      "description": "This is a new platform built for investing and trading in Shares. Lot of investment stratergies with proven ideas are added",
+      "likes": 99,
+      "createdDate": 13,
+      "display": false,
+      "tag": "Feature"
+    },
+    {
+      "title": "fads ",
+      "description": "fdsa dsaf",
+      "tag": "Feature",
+      "likes": 1,
+      "display": true,
+      "createdDate": 1636483923501,
+      "id": "IPxNj-S"
+    },
+    {
+      "title": "qer rewt",
+      "description": "qwev rewqfeq",
+      "tag": "Tech",
+      "likes": 1,
+      "display": true,
+      "createdDate": "2021-11-09T13:46:57.000Z",
+      "id": "V8x2e8g"
+    },
+    {
+      "title": "2",
+      "description": "res sfd",
+      "tag": "Feature",
+      "likes": 0,
+      "display": false,
+      "createdDate": "2021-11-09T13:44:26.000Z",
+      "id": "KWLGLqT"
+    },
+    {
+      "title": "sf",
+      "description": "fsa dsaf",
+      "tag": "Tech",
+      "likes": 1,
+      "display": true,
+      "createdDate": "2021-11-09T19:27:57.332Z",
+      "id": "vG5dqid"
+    }
+  ]
+}
